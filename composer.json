@@ -1,0 +1,6 @@
+{
+    "name": "nikkobautista/discord-keycapbot",
+    "require": {
+        "team-reflex/discord-php": "^5.1"
+    }
+}
